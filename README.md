@@ -9,8 +9,6 @@ A Chat App using Flutter and Firebase in which we will talk to each other.
  2. Now run the app 
  
 
-![App UI](gitimages/chatapp.png)
-
 
 
 
