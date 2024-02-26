@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Cao Xuan Dung\\Downloads\\UET_TaiLieu\\Mobile\\Projects\\chatapp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Cao Xuan Dung\\.gradle\\caches\\transforms-3\\4285d3fb3eab78c4e68dc5fc84177669\\transformed\\core-1.6.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "867",
+                        "endColumns": "203",
+                        "endOffsets": "1066"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cao Xuan Dung\\.gradle\\caches\\transforms-3\\6b6d9c1ca3e668fe1e52ccbfa323d6f0\\transformed\\browser-1.4.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,255,454,665",
+                        "endColumns": "199,198,210,201",
+                        "endOffsets": "250,449,660,862"
+                    }
+                }
+            ]
+        }
+    ]
+}

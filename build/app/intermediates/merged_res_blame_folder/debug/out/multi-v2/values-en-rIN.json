@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Cao Xuan Dung\\Downloads\\UET_TaiLieu\\Mobile\\Projects\\chatapp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Cao Xuan Dung\\.gradle\\caches\\transforms-3\\6b6d9c1ca3e668fe1e52ccbfa323d6f0\\transformed\\browser-1.4.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,250,359",
+                        "endColumns": "97,96,108,98",
+                        "endOffsets": "148,245,354,453"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cao Xuan Dung\\.gradle\\caches\\transforms-3\\4285d3fb3eab78c4e68dc5fc84177669\\transformed\\core-1.6.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "458",
+                        "endColumns": "100",
+                        "endOffsets": "554"
+                    }
+                }
+            ]
+        }
+    ]
+}
